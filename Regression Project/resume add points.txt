@@ -1,0 +1,5 @@
+ Developed and implemented a house sale price prediction model using SequentialFeatureSelection, Ridge, and Lasso regression techniques.
+- Utilized GridSearch CV to optimize model hyperparameters, enhancing predictive accuracy and robustness through rigorous cross-validation.
+- Applied SequentialFeatureSelection to systematically select the most relevant features, improving model interpretability and performance.
+- Successfully integrated Ridge and Lasso regression models to address multicollinearity and perform feature selection,
+ contributing to a comprehensive understanding of housing market dynamics.
